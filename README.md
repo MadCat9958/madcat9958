@@ -9,7 +9,7 @@
 [![Mad_Cat's stats](https://github-readme-stats.vercel.app/api?username=madcat9958&theme=dark&count_private=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me!
-- [Telegram](https://t.me/justMadKitten)
-- [Discord](https://discord.com/users/560529834325966858)
-- [Telegram channel](https://t.me/MadCat9958)
-- [My Bot](https://bcord.cc/b/madbot)
+- [**Telegram**](https://t.me/justMadKitten)
+- [**Discord**](https://discord.com/users/560529834325966858)
+- [**Telegram channel**](https://t.me/MadCat9958)
+- [**My Bot**](https://bcord.cc/b/madbot)
