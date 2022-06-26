@@ -7,6 +7,7 @@
 
 ## My stats (private repos included)
 [![Mad_Cat's stats](https://github-readme-stats.vercel.app/api?username=madcat9958&theme=dark&count_private=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madcat9958&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me!
 - [**Telegram**](https://t.me/justMadKitten)
