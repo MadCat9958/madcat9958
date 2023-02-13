@@ -1,6 +1,6 @@
 ## Hi! Call me "Mad Cat"!
 - I'm creating some stuffs and like fix typos in projects =)
-- 1 year of Python development.
+- 1.5 year of Python development (since August 2021).
 - Contibuted in [discord.py](https://github.com/Rapptz/discord.py), [boticordpy](https://github.com/Boticord/boticordpy) and [melisa](https://github.com/MelisaDev/melisa).
 - Understand Russian, Belarusian and English.
 - Have some experience in C++ and C#.
