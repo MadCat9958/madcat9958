@@ -14,3 +14,6 @@
 - [**Discord**](https://discord.com/users/560529834325966858)
 - [**Telegram channel**](https://t.me/MadCat9958)
 - [**My Bot**](https://bcord.cc/b/madbot)
+
+## Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/560529834325966858)](https://discord.com/users/560529834325966858)
