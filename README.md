@@ -5,7 +5,7 @@
 - Understand Russian, Belarusian and English.
 - Have some experience in C++ and C#.
 
-## My stats (private repos included)
+## My stats (private repos included, orgs excluded)
 [![Mad_Cat's stats](https://github-readme-stats.vercel.app/api?username=madcat9958&theme=dark&count_private=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madcat9958&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
