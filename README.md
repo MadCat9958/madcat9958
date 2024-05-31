@@ -3,7 +3,7 @@
 - I'm creating some stuff and like fixing typos in projects =)
 - 2.5 years of Python development (since August 2021).
 - Contibuted in [boticordpy](https://github.com/Boticord/boticordpy), [discord.py](https://github.com/Rapptz/discord.py) and [melisa](https://github.com/MelisaDev/melisa).
-- Developer of [Team-MadBot](https://github.com/Team-MadBot) and [NeppedCord](https://github.com/neppedcord).
+- Developer of [Team-MadBot](https://github.com/Team-MadBot) and (ex.) [NeppedCord](https://github.com/neppedcord).
 - Understand Russian, Belarusian and English. Learning German.
 - Have some experience in C++.
 
