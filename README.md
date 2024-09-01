@@ -1,7 +1,7 @@
 ## Hi! Call me "Mad Cat"!
 [![wakatime](https://wakatime.com/badge/user/018bdd47-3225-4a22-aa86-fc894e5d7762.svg)](https://wakatime.com/@018bdd47-3225-4a22-aa86-fc894e5d7762)
 - I'm creating some stuff and like fixing typos in projects =)
-- 2.5 years of Python development (since August 2021).
+- Developing using Python since August 2021.
 - Contibuted in [boticordpy](https://github.com/Boticord/boticordpy), [discord.py](https://github.com/Rapptz/discord.py) and [melisa](https://github.com/MelisaDev/melisa).
 - Developer of [Team-MadBot](https://github.com/Team-MadBot) and (ex.) [NeppedCord](https://github.com/neppedcord).
 - Understand Russian, Belarusian and English. Learning German.
