@@ -8,7 +8,7 @@
 - Have some experience in C++.
 
 ## My stats (private repos included, orgs excluded)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MadCat9958&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MadCat9958&theme=dark)](https://git.io/streak-stats)
 
 [![Mad_Cat's stats](https://github-readme-stats.vercel.app/api?username=madcat9958&theme=dark&count_private=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
