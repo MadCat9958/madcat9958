@@ -4,7 +4,7 @@
 - Developing using Python since August 2021.
 - Contibuted in [boticordpy](https://github.com/Boticord/boticordpy), [discord.py](https://github.com/Rapptz/discord.py) and [melisa](https://github.com/MelisaDev/melisa).
 - Developer of [Team-MadBot](https://github.com/Team-MadBot) and (ex.) [NeppedCord](https://github.com/neppedcord).
-- Understand Russian, Belarusian and English. Learning German.
+- Understand Russian, Belarusian and English.
 - Have some experience in C++.
 
 ## My stats (private repos included, orgs excluded)
